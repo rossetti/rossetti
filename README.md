@@ -1,6 +1,8 @@
-**Dr. [Manuel Rossetti](https://rossetti.uark.edu/), P.E.** Dr. Rossetti is a University Professor of [Industrial Engineering](https://industrial-engineering.uark.edu/) and the Director of the inter-disciplinary Bachelor of Science degree in [Data Science](https://datascience.uark.edu/) at the University of Arkansas. 
+**Dr. [Manuel Rossetti](https://rossetti.uark.edu/), P.E.** Dr. Rossetti is a University Professor of [Industrial Engineering](https://industrial-engineering.uark.edu/) at the University of Arkansas 
+
+- He previously served the Director of the inter-disciplinary Bachelor of Science degree in [Data Science](https://datascience.uark.edu/) at the University of Arkansas. 
 - He previously served as the Director for the [Center for Excellence in Logistics and Distribution](https://celdi.org/) a graduated National Science Foundation Industry/University Cooperative Research Center.  
-- Dr. Rossetti has published over 120 journal and conference articles in the areas of simulation, logistics/inventory, and healthcare and has been the PI or Co-PI on funded research projects totaling over 6.4 million dollars. 
+- Dr. Rossetti has published over 130 journal and conference articles in the areas of simulation, logistics/inventory, and healthcare and has been the PI or Co-PI on funded research projects totaling over 6.4 million dollars. 
 - He was selected as a Lilly Teaching Fellow in 1997/98 and was voted Best IE Teacher by IE students in 2007, 2009, and 2017. 
 - He won the IE Department Outstanding Teacher Award in 2001-02, 2007-08, and 2010-11. 
 - He received the College of Engineering Imhoff Teaching Award in 2012 and was elected an IISE Fellow. 
